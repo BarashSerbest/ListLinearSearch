@@ -1,0 +1,8 @@
+C:\Users\const\Desktop\VeriYapılarıKodlar\Kod1_2\ListLinearSearch\ListLinearSearch\bin\Debug\ListLinearSearch.exe.config
+C:\Users\const\Desktop\VeriYapılarıKodlar\Kod1_2\ListLinearSearch\ListLinearSearch\bin\Debug\ListLinearSearch.exe
+C:\Users\const\Desktop\VeriYapılarıKodlar\Kod1_2\ListLinearSearch\ListLinearSearch\bin\Debug\ListLinearSearch.pdb
+C:\Users\const\Desktop\VeriYapılarıKodlar\Kod1_2\ListLinearSearch\ListLinearSearch\obj\Debug\ListLinearSearch.csproj.AssemblyReference.cache
+C:\Users\const\Desktop\VeriYapılarıKodlar\Kod1_2\ListLinearSearch\ListLinearSearch\obj\Debug\ListLinearSearch.csproj.SuggestedBindingRedirects.cache
+C:\Users\const\Desktop\VeriYapılarıKodlar\Kod1_2\ListLinearSearch\ListLinearSearch\obj\Debug\ListLinearSearch.csproj.CoreCompileInputs.cache
+C:\Users\const\Desktop\VeriYapılarıKodlar\Kod1_2\ListLinearSearch\ListLinearSearch\obj\Debug\ListLinearSearch.exe
+C:\Users\const\Desktop\VeriYapılarıKodlar\Kod1_2\ListLinearSearch\ListLinearSearch\obj\Debug\ListLinearSearch.pdb
